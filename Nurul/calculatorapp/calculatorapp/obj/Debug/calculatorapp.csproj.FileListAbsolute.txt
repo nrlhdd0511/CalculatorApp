@@ -1,0 +1,10 @@
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.csprojAssemblyReference.cache
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.Form1.resources
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.Properties.Resources.resources
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.csproj.GenerateResource.cache
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.csproj.CoreCompileInputs.cache
+D:\Nurul\calculatorapp\calculatorapp\bin\Debug\calculatorapp.exe.config
+D:\Nurul\calculatorapp\calculatorapp\bin\Debug\calculatorapp.exe
+D:\Nurul\calculatorapp\calculatorapp\bin\Debug\calculatorapp.pdb
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.exe
+D:\Nurul\calculatorapp\calculatorapp\obj\Debug\calculatorapp.pdb
